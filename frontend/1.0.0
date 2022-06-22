@@ -1,0 +1,17 @@
+yarn add v1.22.18
+[1/4] Resolving packages...
+[2/4] Fetching packages...
+[3/4] Linking dependencies...
+[4/4] Building fresh packages...
+success Saved lockfile.
+success Saved 5 new dependencies.
+info Direct dependencies
+├─ react-native-gesture-handler@2.4.2
+└─ react-native-reanimated@2.8.0
+info All dependencies
+├─ @types/invariant@2.2.35
+├─ lodash.isequal@4.5.0
+├─ react-native-gesture-handler@2.4.2
+├─ react-native-reanimated@2.8.0
+└─ string-hash-64@1.0.3
+Done in 11.78s.
